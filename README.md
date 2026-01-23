@@ -80,3 +80,4 @@ Automated study note generator that converts YouTube videos into structured Mark
 ## Let's Connect
 
 [LinkedIn](https://www.linkedin.com/in/gianluca-buonanno-7b9a272a9)
+[Substack](https://substack.com/@gmb0)
