@@ -34,5 +34,36 @@ Avid gamer. Some of my current favorite games include: Rainbow Six Siege, Battle
 
 ---
 
+## Projects
+### Real-Time Emotion Detection System
+Multi-face emotion and age detection system using computer vision and deep learning. Features real-time face tracking, temporal emotion analysis, and multithreaded architecture for live webcam processing.
+##### Tech: Python, DeepFace, OpenCV, dlib, Computer Vision
+##### GitHub: https://github.com/gianluca-buonanno/Computer-Vision
+##### Info: https://sites.google.com/view/cpsc-4070-final-project/home
+
+## Data Science Portfolio
+Collection of applied machine learning and data analysis projects covering neural networks, dimensionality reduction, clustering, and image classification with comprehensive documentation.
+##### Tech: Python, PyTorch, scikit-learn, NumPy, Pandas
+##### GitHub: https://github.com/gianluca-buonanno/Data-Science
+
+## GameHub AI Chatbot
+Intelligent customer service chatbot for video game retail powered by Claude Sonnet 4. Handles product inquiries, pricing, trade-ins, and pre-orders with natural conversation flow.
+##### Tech: Next.js 14, TypeScript, Claude API, Tailwind CSS, Vercel
+##### GitHub: https://github.com/gianluca-buonanno/Game-Store-Chatbot
+##### Demo: https://game-store-chatbot.vercel.app
+
+## AI Marketing Content Generator 
+Multi-platform marketing content generator using Claude AI. Creates tailored content for Twitter, LinkedIn, Email, Instagram, and Facebook with A/B testing variations.
+##### Tech: Next.js 14, TypeScript, Claude Sonnet 4, Tailwind CSS
+##### GitHub: https://github.com/gianluca-buonanno/AI-Marketing-Agent
+##### Demo: https://ai-marketing-agent-zeta.vercel.app
+
+## YouTube Video Summarizer
+Automated study note generator that converts YouTube videos into structured Markdown notes. Uses Whisper for transcription and LLMs for intelligent summarization.
+##### Tech: Python, OpenAI Whisper, OpenAI API, yt-dlp, FFmpeg
+##### GitHub: https://github.com/gianluca-buonanno/YouTube-Summary
+
+--- 
+
 ## Let's Connect
-www.linkedin.com/in/gianluca-buonanno-7b9a272a9
+##### LinkedIn: www.linkedin.com/in/gianluca-buonanno-7b9a272a9
