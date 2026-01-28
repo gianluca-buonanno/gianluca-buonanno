@@ -34,6 +34,15 @@ Computer Science senior at Clemson University building intelligent systems at th
 
 ## Projects
 
+### AI Prompt Generator
+
+Web application that transforms project ideas into comprehensive, structured prompts for AI-powered code generation. Features Matrix-themed UI with synchronized animations, intelligent idea generation, and dynamic framework filtering.
+
+**Stack:** Next.js 14, TypeScript, Claude API, Tailwind CSS, Vercel  
+[GitHub](https://github.com/gianluca-buonanno/ai-prompt-generator) • [Live Demo]([https://your-vercel-url.vercel.app](https://ai-prompt-generator-lhlri8w7i-gianluca-buonanno-s-projects.vercel.app/))
+
+---
+
 ### Real-Time Emotion Detection System
 
 Multi-face emotion and age detection system using computer vision and deep learning. Features real-time face tracking, temporal emotion analysis, and multithreaded architecture for live webcam processing.
