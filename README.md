@@ -39,7 +39,7 @@ Computer Science senior at Clemson University building intelligent systems at th
 Web application that transforms project ideas into comprehensive, structured prompts for AI-powered code generation. Features Matrix-themed UI with synchronized animations, intelligent idea generation, and dynamic framework filtering.
 
 **Stack:** Next.js 14, TypeScript, Claude API, Tailwind CSS, Vercel  
-[GitHub](https://github.com/gianluca-buonanno/ai-prompt-generator) • [Live Demo]([https://your-vercel-url.vercel.app](https://ai-prompt-generator-lhlri8w7i-gianluca-buonanno-s-projects.vercel.app/))
+[GitHub](https://github.com/gianluca-buonanno/ai-prompt-generator) • [Live Demo]([https://your-vercel-url.vercel.app](https://ai-prompt-generator-lhlri8w7i-gianluca-buonanno-s-projects.vercel.app/)](https://ai-prompt-generator-one.vercel.app))
 
 ---
 
