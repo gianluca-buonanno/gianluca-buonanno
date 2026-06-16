@@ -1,6 +1,6 @@
 # Gianluca Molony Buonanno
 
-Computer Science senior at Clemson University building intelligent systems at the intersection of AI, gaming, and full-stack development. From designing emotion detection models with computer vision to architecting scalable AWS backends, I focus on creating technology that's both technically robust and meaningfully impactful. Beyond the code, I'm an avid gamer with a passion for Rainbow Six Siege, Battlefield 6, GTAV, Helldivers 2, Minecraft, and Hytale.
+Computer Science alum from Clemson University building intelligent systems at the intersection of AI, gaming, and full-stack development. From designing emotion detection models with computer vision to architecting scalable AWS backends, I focus on creating technology that's both technically robust and meaningfully impactful. Beyond the code, I'm an avid gamer with a passion for Rainbow Six Siege, Battlefield 6, GTAV, Helldivers 2, Minecraft, and Hytale.
 
 ## Tech Stack
 
