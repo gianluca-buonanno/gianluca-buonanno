@@ -44,7 +44,7 @@ Computer Science alum from Clemson University building intelligent systems at th
 Web application that transforms project ideas into comprehensive, structured prompts for AI-powered code generation. Features Matrix-themed UI with synchronized animations, intelligent idea generation, and dynamic framework filtering.
 
 **Stack:** Next.js 14, TypeScript, Claude API, Tailwind CSS, Vercel  
-[GitHub](https://github.com/gianluca-buonanno/ai-prompt-generator) • [Live Demo](https://ai-prompt-generator-one.vercel.app)
+[GitHub](https://github.com/gianluca-buonanno/ai-prompt-generator) 
 
 ---
 
@@ -71,7 +71,7 @@ Collection of applied machine learning and data analysis projects covering neura
 Intelligent customer service chatbot for video game retail powered by Claude Sonnet 4. Handles product inquiries, pricing, trade-ins, and pre-orders with natural conversation flow.
 
 **Stack:** Next.js 14, TypeScript, Claude API, Tailwind CSS, Vercel  
-[GitHub](https://github.com/gianluca-buonanno/Game-Store-Chatbot) • [Live Demo](https://game-store-chatbot.vercel.app)
+[GitHub](https://github.com/gianluca-buonanno/Game-Store-Chatbot) 
 
 ---
 
@@ -80,7 +80,7 @@ Intelligent customer service chatbot for video game retail powered by Claude Son
 Multi-platform marketing content generator using Claude AI. Creates tailored content for Twitter, LinkedIn, Email, Instagram, and Facebook with A/B testing variations.
 
 **Stack:** Next.js 14, TypeScript, Claude Sonnet 4, Tailwind CSS  
-[GitHub](https://github.com/gianluca-buonanno/AI-Marketing-Agent) • [Live Demo](https://ai-marketing-agent-zeta.vercel.app)
+[GitHub](https://github.com/gianluca-buonanno/AI-Marketing-Agent) 
 
 ---
 
